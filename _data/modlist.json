@@ -168,12 +168,6 @@
     "version": "1.0.9416.33549"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -196,12 +190,6 @@
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
   },
   {
     "author": "Dubwise",
@@ -258,12 +246,6 @@
     "version": "1.5.0.8"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Hunt for Me",
-    "steamId": "1593245720",
-    "version": "3.5.7.0"
-  },
-  {
     "author": "Taveron",
     "name": "Increased Stack",
     "steamId": null,
@@ -282,22 +264,10 @@
     "version": "1.6.7.1"
   },
   {
-    "author": "klvlt",
-    "name": "LED Lights (1.4+ Fork)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Avius and Hazzer",
-    "name": "Locks",
-    "steamId": "1157085076",
-    "version": "3.1.2"
   },
   {
     "author": "Ratys",
@@ -424,12 +394,6 @@
     "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.8.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -814,5 +778,23 @@
     "name": "Stack XXL",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Crustypeanut and Mersid",
+    "name": "War Crimes Expanded 2 Core (Updated)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.7.0"
   }
 ]

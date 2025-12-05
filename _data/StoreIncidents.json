@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 3000,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 8000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 50,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -127,8 +132,13 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 800,
+		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -237,7 +247,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -267,7 +277,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -294,6 +304,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "item",
+		"price": 1,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "prisoner",
@@ -327,7 +342,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
@@ -337,12 +352,12 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2300,
 		"karmatype": "Good"
 	},
 	{
@@ -367,7 +382,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -431,5 +446,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 89
 }
